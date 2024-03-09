@@ -1,0 +1,2 @@
+# gitbashoyren
+oyrenmeprosesi
